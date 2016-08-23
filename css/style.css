@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Exo+2:700|Indie+Flower);
+
+
+body{
+    background-color:#304357 ;
+    font-family:'Exo 2',sans-serif;;
+    color: #ecf0f1;
+
+}
+header{
+
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: #374D63;
+    box-shadow: 0px -3px 30px 4px #1a1a1a;
+}
+header >h2{
+    font-family:'Indie flower', cursive;
+
+    padding-top: 5px;
+    margin: 10px 0px 5px 0px;
+
+}
+.container{
+    margin-top: 30px;
+ font-size: 25px;
+}
+.icons1{
+    font-weight: 700;
+
+}
+span{
+    font-size: 23px;
+    padding :10px;
+
+}
+.clockSession{
+    font-size: 150px;
+    color:#ff3d00;
+    margin-top: -30px;
+
+}
+.clockBreak{
+    margin-top: 45px;
+    font-size: 75px;
+    color:#e91e63;
+}
+footer a{
+    margin : -33px 20px 10px 10px  ;
+
+}
+a.btn+span{
+    margin: 2px 30px 2px 30px;
+}
